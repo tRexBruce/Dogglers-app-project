@@ -1,27 +1,29 @@
-Dogglers - Starter Code
-==================================
+# Solution for Dogglers app project
 
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+This is the solution code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2).
 
-Introduction
-------------
+## License
 
-This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
+```
+MIT License
 
-Pre-requisites
---------------
+Copyright (c) 2022 tRexBruce
 
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Getting Started
----------------
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
